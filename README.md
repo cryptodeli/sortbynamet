@@ -1,1 +1,1 @@
-# sortbynamet
+# sortbynamet package
